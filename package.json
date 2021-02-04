@@ -12,7 +12,9 @@
     "build-prod": "parcel build src/index.html",
     "test": "jasmine"
   },
-  "dependencies": {},
+  "dependencies": {
+    "app": "^0.1.0"
+  },
   "devDependencies": {
     "jasmine": "^3.6.4",
     "parcel-bundler": "^1.12.4",

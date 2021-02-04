@@ -1,1 +1,3 @@
-console.log("hello world!");
+import Init from './app/Init';
+
+new Init();
